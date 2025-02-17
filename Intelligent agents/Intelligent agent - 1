@@ -1,0 +1,54 @@
+            INTELLIGENT AGENTS 
+
+***🤖 What is an AI Agent? *** 
+
+An agent is anything that can sense the world around it (through sensors) and take actions in the world (through actuators).
+🔍 What does an Agent do?
+
+An agent can:
+✅ Perceive its environment – Understand what is happening using sensors 🏞️👀
+✅ Act upon the environment – Take actions based on what it senses using actuators 🤖⚡
+
+🧠 Two Main Parts of an Agent:
+
+  1️⃣ Perception 👀 (Sensing the Environment) :
+    Perceiving means gathering information about the environment through sensors.
+    Sensors are tools that help the agent understand what is happening around it.
+  e.g.: A robot vaccum has sensors 📡 that can detect dirt, obstacles and walls 🏠  in its surroundings.
+
+  2️⃣ Action 🤖 (Acting on Environment) :
+    After perceiving its environment, the agent takes action to acheive its goals.
+    It does this using actuators (tools that allow the agent to move or make changes.
+  e.g.: A robot vaccum uses motor to move around.
+
+***🌟 Why is an AI Agent Important? ***
+    The concept of an agent is important because it helps us understand how machines or systems interact with the world.
+  🔄 How an Agent Works?
+    1️⃣ Sensors 📡 → Perceive information from the environment.
+    2️⃣ Processing Unit (Brain) 🧠 → Decides what action to take.
+    3️⃣ Actuators 🤖 → Perform actions based on perception.
+
+         Environment 🌍  
+            ⬇️ (Percepts)
+        ┌─────────────┐  
+        │   Sensors   │  👀 (e.g., Camera, Mic, Temperature Sensor)  
+        └─────────────┘  
+            ⬇️  
+        ┌─────────────┐  
+        │   Agent     │  🧠 (Processes Information & Makes Decisions)  
+        └─────────────┘  
+            ⬇️  
+        ┌─────────────┐  
+        │ Actuators   │  🤖 (e.g., Motors, Robotic Arm, Speaker)  
+        └─────────────┘  
+            ⬇️ (Actions)  
+         Environment 🌍  
+
+*** 🤖 Agents in AI ***
+  An agent in Artificial Intelligence (AI) is any entity that can perceive its environment through sensors and take actions through actuators to achieve a goal. 
+  AI agents are designed to automate tasks, solve problems, and interact with their surroundings intelligently.
+  There are different types of AI agents, categorized based on their nature and functionality.
+
+  🔹 1. Human Agent 🧑‍💻
+        A human agent refers to a person who acts or interacts with the system or environment. In Ai, humans can be seen as agents when they make decisions based on their perceprions, reasoning and actions.
+        Humans can interact with AI system, provide feedback and influence decisions made by AI agents.
