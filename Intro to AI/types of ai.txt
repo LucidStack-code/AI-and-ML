@@ -1,0 +1,71 @@
+*** Types of AI 🤖 ***
+
+Artificial Intelligence (AI) is categorized based on capabilities (how powerful the AI is) and functionalities (how the AI works).
+1. Based on Capabilities 🚀
+
+This classification determines the intelligence level of an AI system.
+🔹 Narrow AI (Weak AI)
+
+    AI that is designed for a specific task and cannot perform beyond its programming.
+    It does not have general reasoning or adaptability like humans.
+    It cannot perform task beyond its field or limitations, as it is trained for specified task.
+    Examples:
+        ChatGPT – Can generate human-like text but cannot think independently.
+        Siri/Google Assistant – Provides voice-based assistance but doesn’t have emotions or deep understanding.
+        Netflix Recommendations – Suggests shows based on past viewing history.
+
+🔹 General AI (Strong AI)
+
+    AI that can perform any intellectual task just like a human.
+    It has reasoning, problem-solving abilities, and can learn from experiences.
+    The idea behind general AI is to make such a system which could be smarter or atleast able to think like a human or on its own.
+    Example:
+        Hypothetical AI like Jarvis (from Iron Man) – Can understand, think, and respond like a human.
+        No real-world example yet, but researchers are working on it.
+
+🔹 Super AI (Artificial Superintelligence)
+
+    AI that surpasses human intelligence in every aspect – creativity, emotions, decision-making.
+    It can think and act independently, possibly outperforming humans.
+    It can perform any task better than humans with congnitive properties. It is still a hypothetical concept of AI.
+    Example:
+        Skynet (from Terminator) – A fictional AI that controls everything and surpasses human intelligence.
+        Currently, no real-world example exists.
+
+
+2. Based on Functionalities ⚙️
+
+This classification defines how an AI system processes and interacts with information.
+🟢 Reactive Machines
+
+    The simplest type of AI that can only react to the present situation.
+    It does not store past experiences (no memory).
+    Example:
+        IBM’s Deep Blue – A chess-playing AI that defeated world champion Garry Kasparov by analyzing current moves but had no memory of past games.
+
+🟡 Limited Memory
+
+    AI that can remember past experiences for a short time and use them to make better decisions.
+    Used in self-driving cars, fraud detection, and recommendation systems.
+    Example:
+        Tesla Autopilot – Uses past data to improve driving decisions (e.g., recognizing traffic patterns).
+        Chatbots – Can remember recent messages in a conversation but forget older interactions.
+
+🔵 Theory of Mind (Future AI)
+
+    AI that understands human emotions, beliefs, and intentions.
+    It can interact socially and predict behavior based on past interactions.
+    Still in research and not fully developed.
+    Example:
+        AI-powered robots that can understand human expressions and emotions (still theoretical).
+
+🔴 Self-Awareness (Hypothetical AI)
+
+    The most advanced AI (currently nonexistent).
+    It has its own consciousness, self-awareness, and emotions, similar to a human brain.
+    Example:
+        If an AI ever develops emotions, self-reflection, and independent thoughts, it will fall under this category.
+
+
+
+Lets learn more about AI in next module..........

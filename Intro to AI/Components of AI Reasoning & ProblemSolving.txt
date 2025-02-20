@@ -1,0 +1,69 @@
+***Components of AI: Reasoning & Problem-Solving 🧠🤖***
+
+    AI systems rely on reasoning and problem-solving to make decisions, find solutions, and optimize processes. These capabilities allow AI to mimic human intelligence in  
+    logical thinking and decision-making.
+
+  1. Reasoning 🔍🧠
+
+      AI system use logic and inference to make decisions and draw conclusion from available data.
+
+        - Deductive Reasoning 🔽 – Uses general rules to derive specific conclusions (e.g., "All humans are mortal; John is human; therefore, John is mortal.").
+        - Inductive Reasoning 🔼 – Learns patterns from data and makes predictions (e.g., recognizing trends in stock markets).
+        - Abductive Reasoning 🤔 – Makes the best possible guess based on incomplete information (e.g., AI in medical diagnosis suggesting the most likely disease based on symptoms).
+    📌 Example: AI in legal systems uses reasoning to analyze past cases and predict outcomes.
+
+  2. Problem-Solving 🧩🔢
+
+      AI can analyze situations, recognize patterns, and determine the best course of action to solve complex problems.
+      AI solves complex problems by searching for optimal solutions using different strategies:
+
+      - Search Algorithms 🔍 – AI explores different possibilities (e.g., Dijkstra’s Algorithm for shortest path, A* for game AI).
+      - Optimization Techniques 📈 – AI finds the best solution among many (e.g., scheduling airline flights efficiently).
+      - Constraint Satisfaction 📏 – AI solves puzzles and planning problems by considering multiple constraints (e.g., Sudoku solvers, exam timetabling).
+
+    📌 Example: AI in robotics calculates the best path for a robot to navigate obstacles.
+
+  3. Planning 📅🧠
+
+      AI can set goals and devise strategies to acheive them by predicting outcomes and adjusting actions accordingly.
+      AI uses planning to set goals and determine the best sequence of actions to achieve them.
+
+      - Path Planning – AI calculates the most efficient route (e.g., Google Maps navigation).
+      - Task Scheduling – AI optimizes task execution in industries (e.g., scheduling airline flights).
+      - Game AI – AI plans moves in chess or strategy games using decision trees (e.g., AlphaGo).
+
+    📌 Example: Self-driving cars use AI planning to navigate traffic safely.
+
+  4. Learning 📚🧑‍🎓
+
+      Machine Learning enables Artificial Intelligence 🧠 to improve its performance based on data and past expereinces.
+      AI improves over time by learning from data and experience. There are different types of learning:
+
+      - Supervised Learning 🎯 – AI learns from labeled data (e.g., spam detection in emails).
+      - Unsupervised Learning 🔍 – AI finds patterns in unlabeled data (e.g., customer segmentation in marketing).
+      - Reinforcement Learning 🕹️ – AI learns through trial and error with rewards (e.g., robots learning to walk).
+
+    📌 Example: AI in Netflix learns user preferences and recommends personalized shows.
+
+  5. Natural Language Processing (NLP) 🗣️📖
+
+      Artificial Intelligence can understand, interpret and generate human language, enabling interaction like chatbots and voice assistants.
+      NLP enables AI to understand, interpret, and generate human language. Key aspects include:
+
+      - Speech Recognition 🎤 – Converts speech to text (e.g., Siri, Google Assistant).
+      - Machine Translation 🌍 – AI translates languages (e.g., Google Translate).
+      - Chatbots 🤖💬 – AI interacts with users in real-time (e.g., ChatGPT, customer support bots).
+      - Sentiment Analysis 😊😡 – AI detects emotions in text (e.g., social media sentiment tracking).
+
+    📌 Example: AI in Gmail suggests email replies with "Smart Reply."
+
+  6. Perception 👀👂
+
+      Artificial Intelligence processes sensory inputs <like images, sounds and signals> using techniques such as computer vision and speech recognition. 
+      AI perceives the world using sensors and interprets information like humans do.
+
+      - Computer Vision 📷 – AI processes images and videos (e.g., facial recognition, object detection).
+      - Speech Processing 🗣️ – AI understands spoken words (e.g., voice assistants).
+      - Sensor-based Perception 🚗 – AI in self-driving cars uses LiDAR, cameras, and sensors to detect surroundings.
+
+    📌 Example: AI in medical imaging detects diseases from X-rays and MRIs.
