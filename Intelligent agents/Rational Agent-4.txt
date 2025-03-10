@@ -1,0 +1,48 @@
+🤖 Rational Agent in AI
+📌 What is a Rational Agent?
+
+A rational agent is an entity in AI that:
+✔️ Perceives its environment through sensors 👀
+✔️ Processes the received information 🧠
+✔️ Acts in a way that maximizes its performance measure 🎯
+✔️ Makes the best possible decision based on available information ✅
+
+🔹 Key Characteristics of a Rational Agent:
+
+1️⃣ Clear Preferences – The agent has a well-defined goal.
+2️⃣ Model Uncertainty – The agent considers uncertainties in the environment.
+3️⃣ Optimized Actions – The agent takes actions that maximize its success.
+
+
+🎯 Why Rational Action is Important?
+
+    In Reinforcement Learning (RL):
+    ✅ Correct actions → Positive rewards 🏆
+    ❌ Wrong actions → Negative rewards ❌
+    Ensures AI learns effectively and improves over time.
+
+📌 Rationality in AI
+
+Rationality is defined relative to the performance measure and the agent’s knowledge.
+
+🔹 Key Aspects of Rationality:
+
+| **Aspect**            | **Description** |
+|----------------------|------------------------------------------------|
+| **Performance Measure** 🎯 | The metric used to evaluate the success of an agent. |
+| **Percept Sequence** 👀 | The history of all perceptions the agent has received so far. |
+| **Knowledge Base** 📚 | What the agent knows about the environment. |
+| **Action Selection** 🔄 | The process of choosing the most optimal action based on perception and knowledge. |
+
+🔄 Flowchart of a Rational Agent’s Decision-Making
+
+graph TD;
+  A[Start] --> B[Perceive Environment 👀];
+  B --> C[Process Information 🧠];
+  C --> D[Select Optimal Action 🎯];
+  D --> E[Take Action 🔄];
+  E --> F{Goal Achieved?};
+  F -- Yes ✅ --> G[Maximize Reward 🏆];
+  F -- No ❌ --> H[Learn & Improve 🔄];
+  H --> B;
+  G --> A;

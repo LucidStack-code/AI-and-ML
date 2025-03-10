@@ -1,0 +1,43 @@
+🤖 PEAS Representation in AI
+📌 What is PEAS?
+
+The PEAS framework is used to define an intelligent agent in a structured way. It helps in designing and analyzing agents by specifying what they need to function properly.
+Basically, it is a framework used to define the components of an intelligent Agent.
+It helps in designing and analyzing AI systems by specifying what the agent perceives, how it acts and what golas it must achieves.
+
+🔹 PEAS Components
+
+✔ Performance Measure (P) 🎯 – The criteria to evaluate how well the agent is performing.
+✔ Environment (E) 🌍 – The surroundings in which the agent operates.
+✔ Actuators (A) 🤖 – The components that allow the agent to take actions in the environment.
+✔ Sensors (S) 👀 – The components that allow the agent to perceive the environment.
+
+📌 PEAS Example: Self-Driving Car 🚗
+
+| **Component**        | **Self-Driving Car Example 🚗** |
+|----------------------|------------------------------------------------|
+| **Performance Measure (P) 🎯** | Safe driving, fuel efficiency, fast route selection, following traffic rules. |
+| **Environment (E) 🌍** | Roads, traffic, pedestrians, weather conditions. |
+| **Actuators (A) 🤖** | Steering wheel, accelerator, brakes, signals, horn. |
+| **Sensors (S) 👀** | Cameras, LiDAR, GPS, speedometer, radar. |
+
+📌 PEAS Example: Vacuum Cleaner 🏠
+
+| **Component**        | **Vacuum Cleaner Example 🏠** |
+|----------------------|------------------------------------------------|
+| **Performance Measure (P) 🎯** | Clean floor, battery efficiency, minimal collisions. |
+| **Environment (E) 🌍** | Home, dust, furniture, obstacles, different floor types. |
+| **Actuators (A) 🤖** | Wheels, suction motor, brushes, dustbin. |
+| **Sensors (S) 👀** | Dirt sensor, bump sensor, proximity sensor. |
+
+📌 PEAS Representation Summary Table
+
+| **Component**        | **Description** |
+|----------------------|------------------------------------------------|
+| **Performance Measure (P) 🎯** | Defines success criteria for the agent. |
+| **Environment (E) 🌍** | The external world where the agent operates. |
+| **Actuators (A) 🤖** | Components that take actions to affect the environment. |
+| **Sensors (S) 👀** | Components that gather information from the environment. |
+
+The PEAS framework is a structured way to define an intelligent agent, specifying what it needs to function
+properly. It consists of four components: Performance Measure, Environment, Actuators, and Sensors.
